@@ -1,0 +1,21 @@
+@import url("./reset.css");
+@import url("./common.css");
+
+@import url("./header.css");
+@import url("./burger.css");
+@import url('./hero.css');
+
+@import url("./favorites.css");
+@import url("./footer.css");
+
+@import url("../js/pagination/pagination.css");
+@import url('./layout/exercises-left-part.css');
+@import url('./layout/exercises-right-part.css');
+@import url('./layout/exercises-right-part-filter.css');
+@import url('./layout/raiting.css');
+@import url('./layout/modal.css');
+@import url('./layout/scroll-button.css');
+@import url('./layout/search.css');
+@import url('./layout/spinner.css');
+
+@import url('../js/loader/loader.css')
